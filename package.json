@@ -1,0 +1,28 @@
+{
+  "name": "visitor-badging-poc",
+  "version": "1.0.0",
+  "description": "my-javascript-project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SourabhPandya7/visitor-badging-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SourabhPandya7/visitor-badging-poc/issues"
+  },
+  "homepage": "https://github.com/SourabhPandya7/visitor-badging-poc#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
