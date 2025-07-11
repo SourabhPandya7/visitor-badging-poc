@@ -17,7 +17,6 @@ A Proof of Concept (POC) web application for visitor badging with HubSpot integr
 - **CRM Integration:** HubSpot API
 
 ## Getting Started
-###
 ### Prerequisites
 
 - Node.js and npm installed
