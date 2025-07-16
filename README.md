@@ -2,7 +2,7 @@
 
 A Proof of Concept (POC) web application for visitor badging with HubSpot integration. Visitors fill out a form, and their information is checked against HubSpot to prevent duplicates. If the visitor is new, a badge is generated and their details are added to HubSpot.
 
-## Project Proposal
+### Project Proposal
 
 This project aims to streamline visitor management by:
 - Digitizing the visitor registration process.
